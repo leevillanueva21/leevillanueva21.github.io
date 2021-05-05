@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+<img src="https://user-images.githubusercontent.com/83632459/116977113-0a1ef080-ac90-11eb-9b45-9b13387d8bae.png" style="float:rightleft" width="190"/>
 
-You can use the [editor on GitHub](https://github.com/leevillanueva21/leevillanueva21.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# Mabuhay!
+Welcome to my newly-minted portfolio. Pardon the mess as I'm still in the process of learning how to properly code and design for a webpage. Click on any of the links above to view samples of my work as an instructional designer/e-learning developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## About Me
+I have been in the BPO Industry for 10 years and have been part of Training and Instructional Design for a combined total of 5 years. As a Senior Trainer, one of my core responsibilities was to develop training content to be rolled out to the existing workforce to improve their skills and knowledge. I have since moved to a full-time position as an Instructional Designer specializing in e-learning, microlearning, and experiential/gamified learning.
 
-### Markdown
+As a long-time gamer, I have always been interested in how games are designed to hook you in and keep you engaged in the medium. This is why I'm always exploring how effective game design concepts can be applied to improve learning and instructional design. Apart from general game design, I have also recently started dipping my toes in coding (although I am very much new to this, and would not put in anywhere in my resume yet), particularly HTML and Javascript as these are frequently used in e-learning authoring tools.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/leevillanueva21/leevillanueva21.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I hope you like what you see here! Even if you don't though, thank you for taking the time to look through my portfolio and I hope to collaborate with you soon. :blush:
