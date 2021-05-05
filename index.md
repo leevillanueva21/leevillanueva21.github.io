@@ -14,4 +14,4 @@ As a long-time gamer, I have always been interested in how games are designed to
 
 Apart from designing and developing these materials, I also do voice-overs and voice acting for employee engagement, corporate marketing, as well as the learning modules I help develop.
 
-I hope you like what you see here! Even if you don't though, thank you for taking the time to look through my portfolio and I hope to collaborate with you soon. :blush:
+I hope you like what you see here! Even if you don't though, thank you for taking the time to look through my portfolio and I hope to collaborate with you soon. :smile:
